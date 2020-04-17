@@ -1,7 +1,7 @@
 {
-  "name": "react-leaflet-draw",
+  "name": "react-hooks-leaflet-draw",
   "version": "0.19.5",
-  "description": "React component for leaflet-draw",
+  "description": "React component for leaflet-draw compatible with React hooks",
   "main": "dist/react-leaflet-draw.js",
   "module": "dist/esm/index.js",
   "scripts": {
