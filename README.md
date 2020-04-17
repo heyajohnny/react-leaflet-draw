@@ -2,6 +2,8 @@
 
 React component build on top of [React-Leaflet](https://github.com/PaulLeCam/react-leaflet) that integrate [leaflet-draw](https://github.com/Leaflet/Leaflet.draw) feature.
 
+This is a fork of alex3165/react-leaflet-draw with the fix for react hooks.
+
 ## Install
 
 ```
